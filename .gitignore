@@ -1,0 +1,33 @@
+# Build outputs
+build/
+s3_link_device/build/
+managed_components/
+.cache/
+
+# ESP-IDF generated files
+sdkconfig.old
+*.bin
+*.elf
+*.map
+*.obj
+*.a
+*.o
+
+# IDE/Editor configs
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.bak
+
+# Test files
+pytest_*.py
+
+# Documentation
+*.md
+*.pdf
