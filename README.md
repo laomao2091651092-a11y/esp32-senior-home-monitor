@@ -220,10 +220,9 @@ esp32-senior-home-monitor/
 
 ## 🙋‍♂️ 作者
 
-**Lin Zijie** - 电子信息工程专业学生
+**Lin Zijie** - 物联网工程专业学生
 
 - 📧 Email: linzijie@example.com
-- 🏫 学校: 某大学
 
 ---
 
